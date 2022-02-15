@@ -1,0 +1,6 @@
+[submodule "trentP1-frontend"]
+	path = trentP1-frontend
+	url = https://github.com/keithtanzihao/trentP1-frontend.git
+[submodule "trentP1-backend"]
+	path = trentP1-backend
+	url = https://github.com/keithtanzihao/trentP1-backend.git
