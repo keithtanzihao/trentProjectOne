@@ -1,0 +1,26 @@
+
+
+Airbnb Data Visualizer
+---------------------------
+  - Website for users who are curious about Singapore's airbnb listings but do have knowledge on how to parse ( using excel/R ) and convert these data into a more presentable manner, such as a graphs/charts. 
+
+
+Primary Task
+---------------------------
+  - Maps: 
+      - Obtain listing data and showcase their positions (as markers) on a map using leaflet / onemap
+          - Different color for different listing types
+
+      - Allow users to click on marker and view basic info regarding the listing
+          - **Showcase data in a palatable format (instead of linking it to the website)
+
+      - Allow user to search for listing based on location
+    
+      - Filter listings based on region/type/no. reviews/etc
+
+
+  - Charts:
+      - Compare data with rest of the listings
+          - Price
+          - Ammenities 
+          
