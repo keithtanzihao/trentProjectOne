@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"cd trentP1-frontend && set PORT=3006 && npm start\" "
+    "dev": "concurrently \"cd trentP1-frontend && npm run dev\" \"cd trentP1-backend && npm run dev\""
   },
   "repository": {
     "type": "git",
