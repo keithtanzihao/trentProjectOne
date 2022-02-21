@@ -1,4 +1,4 @@
-
+\"cd trentP1-frontend && npm run dev\" 
 
 Airbnb Data Visualizer
 ---------------------------
@@ -24,3 +24,4 @@ Primary Task
           - Price
           - Ammenities 
           
+
